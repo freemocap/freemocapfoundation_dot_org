@@ -18,8 +18,7 @@ nav:
   - Home: index.md
   - Mission: mission.md
   - People: people.md
-  - Our Projects: our_projects.md
-  - Contribute: contribute.md
+  - Projects We Support: our_projects.md
   - Donate: donate.md
 
 extra:
