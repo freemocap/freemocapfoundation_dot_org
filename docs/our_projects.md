@@ -10,7 +10,7 @@ To learn more about the FreeMoCap Project, check out our dedicated webpage via t
 
 [**https://freemocap.org**](https://freemocap.org)
 
-### *Get Involved*
+### Get Involved
 
 If you're a skilled scientist, web developer, software engineer, technologist, or artist, and you'd like to get involved with the FreeMoCap Project, you could...
 
