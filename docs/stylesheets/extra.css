@@ -1,0 +1,13 @@
+:root > * {
+    --md-primary-fg-color:        #254342;
+    /* 
+    good colors
+    skelly bone blue: #5c96af
+    */
+    --md-primary-fg-color--light: #254342;
+    --md-primary-fg-color--dark:  #d95157;
+  }
+
+  #centered-text {
+    font-size: 90;
+  }
