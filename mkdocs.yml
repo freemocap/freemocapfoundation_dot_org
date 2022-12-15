@@ -6,6 +6,10 @@ theme:
   favicon: assets\images\sparkle_favicon.ico
   font:
     text: Dosis
+  theme:
+  features:
+    - toc.integrate 
+
 
 extra_css:
   - stylesheets/extra.css
@@ -16,6 +20,7 @@ nav:
   - People: people.md
   - Our Projects: our_projects.md
   - Contribute: contribute.md
+  - Donate: donate.md
 
 extra:
   social:
