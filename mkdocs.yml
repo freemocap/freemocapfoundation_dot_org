@@ -1,7 +1,43 @@
-site_name: FreeMoCap Foundation
+site_name: The FreeMoCap Foundation
 
 theme:
-  material
+  name: material
+  logo: assets\images\sparkle_512x512.png
+  favicon: assets\images\sparkle_favicon.ico
+  font:
+    text: Dosis
+  theme:
+  features:
+    - toc.integrate 
+
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
+  - Home: index.md
+  - Mission: mission.md
+  - People: people.md
+  - Projects We Support: our_projects.md
+  - Donate: donate.md
 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/freemocap
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/freemocap/freemocap
+
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/SgdnzbHDTG
+
+    - icon: fontawesome/brands/twitch
+      link: https://twitch.tv/freemocap
+
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/jonmatthis
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
