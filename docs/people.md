@@ -17,7 +17,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="../assets/profile_pics/trent_profile.jpg" alt="Trent" style="width:100%">
+      <img src="../assets/profile_pics/trent_profile.JPG" alt="Trent" style="width:100%">
       <div class="container">
         <h2>Dr. Trenton Wirth</h2>
         <p class="title">COO, Clerk, &amp; Co-Founder</p>
@@ -45,7 +45,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="../assets/profile_pics/Ryan_profile.jpg" alt="Ryan" style="width:100%">
+      <img src="../assets/profile_pics/ryan_profile.jpg" alt="Ryan" style="width:100%">
       <div class="container">
         <h2>Ryan Rose</h2>
         <p class="title">CFO &amp; Treasurer</p>
