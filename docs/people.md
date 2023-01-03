@@ -49,7 +49,7 @@
       <div class="container">
         <h2>Ryan Rose</h2>
         <p class="title">CFO &amp; Treasurer</p>
-        <p>Ryan steers the financial elements of the FreeMoCap Foundation. Ryan is the Founder of <strong><a href="https://www.capitalbookkeeping.coop/">Capital Bookkeeping</a></strong>, an organization that provides financial services to small businesses  in New York's Capital Region. Inestimable woodsman, homesteader and community leader, Ryan maintains the best practice business infrastructure that allows the FreeMoCap Foundation to grow stably while providing a high level of transparency to our community. </p>
+        <p>Ryan steers the financial elements of the FreeMoCap Foundation. Ryan is the Founder of <strong><a href="https://www.capitalbookkeeping.coop/">Capital Bookkeeping</a></strong>, an organization that provides financial services to small businesses and co-operatives. Inestimable woodsman, homesteader and community leader, Ryan maintains the best practice business infrastructure that allows the FreeMoCap Foundation to grow stably while providing a high level of transparency to our community. </p>
         <form>
             <p><button type="submit" formaction="https://www.linkedin.com/in/ry-ro/" class="button">LinkedIn</button></p>
         </form>
