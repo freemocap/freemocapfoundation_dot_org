@@ -6,7 +6,7 @@
       <img src="../assets/profile_pics/jon_profile.jpg" alt="Jon" style="width:100%">
       <div class="container">
         <h2>Dr. Jonathan Samir Matthis</h2>
-        <p class="title">CEO, President, &amp; Founder</p>
+        <p class="title">CEO, President</p>
         <p>Jon founded The FreeMoCap Foundation to support The FreeMoCap Project and other projects like it. He is an Assistant Professor of Human Movement Neuroscience in Boston Massachussetts. He runs a <a href="https://scholar.google.com/citations?user=mjYexjAAAAAJ"> scientific research program</a> that investigates the neural control of real-world full-body movement. He has been developing new methodologies to study human movement since 2008 </p>
         <form>
             <p><button type="submit" formaction="https://jonmatthis.com" class="button">Personal Website</button></p>
@@ -20,7 +20,7 @@
       <img src="../assets/profile_pics/trent_profile.JPG" alt="Trent" style="width:100%">
       <div class="container">
         <h2>Dr. Trenton Wirth</h2>
-        <p class="title">COO, Clerk, &amp; Co-Founder</p>
+        <p class="title">COO, Clerk</p>
         <p>As COO, Trent aids in the day-to-day activities of the Foundation to support its long-term goals. Trent has nearly a decade of experience using Virtual and Augmented Reality (AR) to study human perception and action. He is currently a Post-Doctoral Researcher working with Dr. Jonathan Matthis, using AR and eye tracking to study the visual control of foot-placement.</p>
         <form>
             <p><button type="submit" formaction="https://wirthtd.com" class="button">Personal Website</button></p>
