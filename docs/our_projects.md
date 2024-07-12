@@ -10,10 +10,21 @@ To learn more about the FreeMoCap Project, check out our dedicated webpage via t
 
 [**https://freemocap.org**](https://freemocap.org)
 
-### Get Involved
+## FreeMoCap Software
+### https://github.com/freemocap/freemocap 💀✨
 
-If you're a skilled scientist, web developer, software engineer, technologist, or artist, and you'd like to get involved with the FreeMoCap Project, you could...
+## Selected Sub-skelly repos 
+### https://github.com/freemocap/skellycam 💀📸
+### https://github.com/freemocap/skellytracker 💀🔭
+### https://github.com/freemocap/skellyforge 💀🛠️
 
-- join our Discord! To do that, simply [**follow this link**](https://discord.com/invite/SgdnzbHDTG)
-- shoot the FreeMoCap crew an email. Send inquiries to info AT freemocap DOT org
-- check out our progress on GitHub, and maybe tackle an issue yourself! You can [**follow this link**](https://github.com/freemocap/freemocap) to the project's GitHub.
+## Blender Addon
+### https://github.com/freemocap/freemocap_blender_addon 💀🥄 
+
+## AI Stuff
+### https://github.com/freemocap/skellybot 💀🤖
+
+## Other Code Repositories
+### https://github.com/orgs/freemocap/repositories 💀💻
+
+.
