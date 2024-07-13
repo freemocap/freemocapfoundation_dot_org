@@ -10,21 +10,20 @@ To learn more about the FreeMoCap Project, check out our dedicated webpage via t
 
 [**https://freemocap.org**](https://freemocap.org)
 
-## FreeMoCap Software
-### https://github.com/freemocap/freemocap 💀✨
+## Core Software
+### [FreeMoCap Software 💀✨](https://github.com/freemocap/freemocap)
+### [FreeMoCap Documentation💀📃](https://freemocap.github.io/documentation/index_md.html) ([docs repo](https://freemocap.github.io/documentation/index_md.html))
 
 ## Selected Sub-skelly repos 
-### https://github.com/freemocap/skellycam 💀📸
-### https://github.com/freemocap/skellytracker 💀🔭
-### https://github.com/freemocap/skellyforge 💀🛠️
+### [SkellyCam 💀📸](https://github.com/freemocap/skellycam)
+### [SkellyTracker💀🔭](https://github.com/freemocap/skellytracker)
+### [SkellyForge💀🛠️](https://github.com/freemocap/skellyforge)
 
-## Blender Addon
-### https://github.com/freemocap/freemocap_blender_addon 💀🥄 
+### [Skelly Blender 💀💫](https://github.com/freemocap/freemocap_blender_addon) [FreeMoCap Blender Add-on](https://github.com/freemocap/freemocap_blender_addon/releases)
 
 ## AI Stuff
-### https://github.com/freemocap/skellybot 💀🤖
+### [SkellyBot💀🤖](https://github.com/freemocap/skellybot)
 
-## Other Code Repositories
-### https://github.com/orgs/freemocap/repositories 💀💻
+## [Other Repositories 💀💻](https://github.com/orgs/freemocap/repositories)
 
 .
